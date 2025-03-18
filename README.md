@@ -46,6 +46,6 @@ loan_status : Loan approval status (Integer): 1 = approved; 0 = rejected
 
 **✨ Key Insights**
 
-✅ Logistic Regression is the best model with 96% AUC after balancing data using SMOTE.
-✅ Random Forest & Decision Tree are prone to overfitting (high train accuracy but lower test AUC).
-✅ SMOTE improved model performance by balancing class distribution.
+✅ Logistic Regression is the best model with 96% AUC after balancing data using SMOTE.  
+✅ Random Forest & Decision Tree are prone to overfitting (high train accuracy but lower test AUC).  
+✅ SMOTE improved model performance by balancing class distribution.  
